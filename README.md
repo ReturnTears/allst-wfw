@@ -33,10 +33,21 @@ allst-wfw-provider是服务提供模块
 
 ### 🍎 公共模块
 模块名： allst-wfw-common
+```text
+该模块主要用于存放项目的工具类
+1、属性拷贝工具类：ConverUtil
+2、
+
+将当前模块安装到本地仓库：maven install, 方便后续其他模块引用
+```
 
 ### 🍎 其他模块
 模块名： allst-wfw-bom
+```text
 该模块主要用于项目的依赖管理，因此该模块的打包方式为pom
+添加SpringBoot、SpringCloud相关依赖
+
+```
 
  
  
