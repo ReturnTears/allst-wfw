@@ -21,7 +21,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.allst.wfw.</groupId>
+            <groupId>com.allst.wfw</groupId>
             <artifactId>allst-wfw-api</artifactId>
             <version>${project.version}</version>
         </dependency>
